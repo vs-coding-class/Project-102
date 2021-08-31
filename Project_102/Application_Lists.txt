@@ -1,0 +1,3 @@
+Chess, /Applications/Safari.app, /Applications/Skype.app
+Coding, /Applications/Safari.app, /System/Applications/Utilities/Terminal.app, /System/Applications/TextEdit.app
+School, /Applications/Safari.app, /Applications/zoom.us.app
