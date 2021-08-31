@@ -21,5 +21,7 @@ def main():
         elif type == 'list':
             setName = input('Please enter the name of the set of applications you would like to open: ')
             openMultipleApplications(setName)
+        else:
+            print('Please enter a response that is compatible with the program.')
 
 main()
